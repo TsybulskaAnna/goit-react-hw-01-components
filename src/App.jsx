@@ -4,6 +4,7 @@ import friends from './data/friends.json';
 import transactions from './data/transactions.json';
 
 import FriendList from 'Components/FriendList';
+
 import Profile from 'Components/Profile';
 import Statistics from 'Components/Statistics';
 import TransactionHistory from 'Components/TransactionHistory';
