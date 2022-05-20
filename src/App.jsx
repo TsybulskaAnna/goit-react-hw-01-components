@@ -7,7 +7,7 @@ import transactions from './data/transactions.json';
 import Statistics from 'Components/Statistics';
 import FriendList from 'Components/FriendList';
 import TransactionHistory from 'Components/TransactionHistory';
-import Profile from 'Components/Profile';
+import Profile from 'Components/ProfileAcount';
 
 import './App.css';
 
