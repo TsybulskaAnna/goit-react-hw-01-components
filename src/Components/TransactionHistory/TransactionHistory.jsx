@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import s from './TransactionHistory.module.scss';
 
-function TransactionHistory({items}) {
+function TransactionHistory({ items }) {
   return (
     <table className={s.transaction}>
       <thead className={s.text}>
