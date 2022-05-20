@@ -3,8 +3,8 @@ import data from './data/data.json';
 import friends from './data/friends.json';
 import transactions from './data/transactions.json';
 
-import Profile from 'Components/Profile/Profile';
-import Statistics from 'Components/Statistics/Statistics';
+import Profile from 'Components/Profile';
+import Statistics from 'Components/Statistics';
 import FriendList from 'Components/FriendList';
 import TransactionHistory from 'Components/TransactionHistory';
 
