@@ -1,0 +1,31 @@
+.item {
+  list-style-type: none;
+  display: flex;
+  background-color: hwb(229 65% 10%);
+  border: 1px solid rgb(69, 68, 151);
+  width: 200px;
+  align-items: center;
+  padding: 10px 5px;
+  justify-content: center;
+  margin: 10px auto;
+  border-radius: 5px;
+}
+.status {
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.online {
+  background-color: red;
+}
+.ofline {
+  background-color: green;
+}
+.name {
+  margin-left: 10px;
+  color: rgb(1, 1, 8);
+  font-size: 18px;
+}
